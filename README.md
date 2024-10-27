@@ -1,7 +1,12 @@
 # CS-230
--How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-This approach keeps focus on the users needs, which helps priortize features effectively, and improves communication among team members. 
--How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
-It is important to use iterative development through short cycles, such as sprints. This allows for quick feedback and adjustments.
--What does it mean to be a good team member in software development?
-Being a good team member means communicating clearly and openly with the team. Collabortation is most improtant. 
+-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+-What did you do particularly well in developing this documentation?
+-I excelled at clearly outlining the strentghs and weaknesses of various potential solutions.
+What about the process of working through a design document did you find helpful when developing the code?
+The design document process allowed for valuable exploration of the project. 
+-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I would likely analysis of different platforms. I overlooked critical factos related to security. 
+-How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+I interpreted user needs by focusing on their challenges and preferences, ensuring that the software design addressed these effectively. 
+-How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+In my approach to software design, I plan to utilize user journey mapping and prototyping to create a better user experience. 
